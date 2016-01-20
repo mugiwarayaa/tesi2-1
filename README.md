@@ -1,2 +1,2 @@
 # tesi2
-Não consigo ler nada
+Disciplina de Sistemas de Informação - UFAC 2016
